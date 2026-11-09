@@ -19,3 +19,7 @@ O nanoprint é um SaaS criado para eliminar a fricção administrativa e a perda
 
 ## Distribuição e Instalação da CLI
 A CLI do nanoprint é distribuída de forma segura por meio dos binários oficiais publicados nos Releases da organização. Para instalar a ferramenta no ambiente de desenvolvimento, acesse a página de lançamentos ou utilize os scripts de instalação automatizados.
+
+## Estudos & Validações
+
+O fundamento conceitual, científico e arquitetural do nanoprint é respaldado por análises rigorosas sobre o custo da troca de contexto (Gloria Mark, Gerald Weinberg), métricas de Developer Experience (DevEx) e programação baseada em microtarefas. O artigo técnico completo de validação de produto encontra-se documentado no repositório em Artigo/Nanoprint.pdf, detalhando as premissas de engenharia, os modelos de auditoria e a fundamentação teórica adotada no desenvolvimento da plataforma.
